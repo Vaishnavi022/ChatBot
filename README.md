@@ -36,15 +36,6 @@ The **Image Recognition Chatbot** is designed to process both **visual and textu
 - **Frontend**: React.js, HTML, CSS (if applicable)  
 - **Database**: MongoDB, Firebase, PostgreSQL  
 
-## 📚 Current Semester Subjects (Relevant to Project)  
-📌 **Artificial Intelligence & Machine Learning** – Understanding deep learning concepts.  
-📌 **Natural Language Processing** – Processing and generating human-like text.  
-📌 **Computer Vision** – Image recognition and object detection.  
-📌 **Software Engineering** – Designing scalable and efficient AI systems.  
-📌 **Database Management Systems** – Storing and retrieving chatbot training data.  
-
----
-
 ## 📌 Future Enhancements  
 🔹 Improve chatbot accuracy with **better NLP models**.  
 🔹 Enable **multi-language support** for diverse users.  
