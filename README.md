@@ -1,4 +1,4 @@
-# 🖼️ Image Recognition Chatbot  
+# 🖼️ Convolutional Image Recognition Chatbot
 
 ## 📌 Project ID: 1604  
 
