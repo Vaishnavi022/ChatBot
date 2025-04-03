@@ -41,4 +41,12 @@ The **Image Recognition Chatbot** is designed to process both **visual and textu
 🔹 Enable **multi-language support** for diverse users.  
 🔹 Add **voice-based interaction** for a more interactive experience.  
 🔹 Enhance **real-time object detection** using advanced models.  
+
+
+
+## Dataset
+The dataset used for this project is available on Kaggle:  
+[Convolutional Image Recognition Chatbot Dataset](https://www.kaggle.com/datasets/chaudharidisha397/convolutional-image-recognition-chatbot-dataset)
+
+
  
