@@ -1,7 +1,5 @@
 # 🖼️ Convolutional Image Recognition Chatbot
-
 ## 📌 Project ID: 1604  
-
 ## 📖 Project Description  
 Ever since the birth of AI and computer vision, modeling conversations has remained a challenge, particularly in integrating **Natural Language Processing (NLP) and Image Recognition**. Chatbots like **Apple’s Siri, Google Assistant, and Microsoft Cortana** have become widely used, but they primarily rely on text or voice input.  
 
