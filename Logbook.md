@@ -17,10 +17,7 @@
   - Seamlessly integrate deep learning-based image recognition with natural language processing (NLP).
 
 - **Applications:**  
-  - Customer support (analyzing product images).  
-  - Medical diagnostics (analyzing scans and reports).  
-  - E-commerce (product recommendation from images).  
-  - Education (visual-based learning assistants).
+  - Customer support (analyzing product images).    
 
 ---
 
