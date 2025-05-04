@@ -120,5 +120,4 @@
 - Anderson et al., CVPR 2018.  
 - Radford et al., OpenAI 2021.  
 - Das et al., CVPR 2017.  
-- HuggingFace Documentation.  
-- TensorFlow and PyTorch Official Documentation.
+
