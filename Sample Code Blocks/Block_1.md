@@ -1,5 +1,6 @@
 ## Block 1: Import Libraries and Load Environment Variables
 
+## Code
 ```python
 from dotenv import load_dotenv
 load_dotenv()  # Load environment variables from .env.
