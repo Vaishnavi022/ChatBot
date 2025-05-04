@@ -16,9 +16,9 @@ from PIL import Image
 
 
 # Explanation:
-dotenv is used to load environment variables (like your API key) from a .env file.
-Streamlit provides an easy way to create the web interface for the chatbot.
-os helps interact with the operating system, like fetching the API key.
-textwrap is used to format the generated text neatly.
-google.generativeai is the Gemini API used to generate content and analyze text and images.
-PIL (Python Imaging Library) is used to handle image uploads.
+# dotenv is used to load environment variables (like your API key) from a .env file.
+# Streamlit provides an easy way to create the web interface for the chatbot.
+# os helps interact with the operating system, like fetching the API key.
+# textwrap is used to format the generated text neatly.
+# google.generativeai is the Gemini API used to generate content and analyze text and images.
+# PIL (Python Imaging Library) is used to handle image uploads.
