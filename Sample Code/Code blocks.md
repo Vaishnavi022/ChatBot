@@ -11,7 +11,7 @@ import google.generativeai as genai
 from PIL import Image
 
 
-## Explanation:
+**Explanation:**
 # dotenv: This library is used to load environment variables from a .env file, such as your API key, which ensures sensitive data is not exposed in your code.
 # streamlit: A framework used to create the web interface for the chatbot. It makes it easy to build interactive applications with Python.
 # os: A module that helps you interact with the operating system. In this case, it's used to fetch environment variables (like the API key for Gemini).
@@ -21,9 +21,9 @@ from PIL import Image
 
 ## How it Works
 # load_dotenv(): This function loads the environment variables from the .env file. It's typically used to keep sensitive information (like your API key) separate from the 
-  main codebase.
+# main codebase.
 # genai.configure(api_key=os.getenv("GOOGLE_API_KEY")): This line configures the Gemini API client with the API key loaded from the environment variables, allowing the 
-  chatbot to use Gemini for content generation and image analysis.
+# chatbot to use Gemini for content generation and image analysis.
 
 ## Dependencies
 # python-dotenv: Required to load environment variables from a .env file.
