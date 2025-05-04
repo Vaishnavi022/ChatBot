@@ -32,3 +32,10 @@ from PIL import Image
 # Pillow: Python Imaging Library (PIL) for image processing.
 
  
+
+### Highlights:
+- **Dependencies**: The specific libraries (dotenv, streamlit, google-generativeai, and Pillow) are listed with installation instructions.
+- **Explanation**: The markdown explains the purpose of each library and how it functions in the code.
+- **How It Works**: A brief overview of the key functionalities, like loading environment variables and configuring the API client.
+
+Let me know if you need any more details or further customization! 😊
