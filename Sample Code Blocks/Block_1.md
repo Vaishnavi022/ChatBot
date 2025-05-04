@@ -25,7 +25,7 @@ from PIL import Image
 # genai.configure(api_key=os.getenv("GOOGLE_API_KEY")): This line configures the Gemini API client with the API key loaded from the environment variables, allowing the 
 # chatbot to use Gemini for content generation and image analysis.
 
-## Dependencies
+**Dependencies**
 # python-dotenv: Required to load environment variables from a .env file.
 # streamlit: The framework used for building the UI.
 # google-generativeai: Required for interacting with the Gemini API.
