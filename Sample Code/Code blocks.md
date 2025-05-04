@@ -22,3 +22,17 @@ from PIL import Image
 # textwrap is used to format the generated text neatly.
 # google.generativeai is the Gemini API used to generate content and analyze text and images.
 # PIL (Python Imaging Library) is used to handle image uploads.
+
+
+## Block 2: Format Output as Markdown
+# Format Gemini output as Markdown
+def to_markdown(text):
+    text = text.replace('•', '  *')
+    return textwrap.indent(text, '> ', predicate=lambda _: True)
+
+#Explanation:
+#This function converts the output from the Gemini model into a more readable Markdown format.
+#It replaces bullet points with asterisks and indents the text for better presentation in Streamlit.
+
+
+
