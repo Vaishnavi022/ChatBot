@@ -31,14 +31,15 @@ The **Image Recognition Chatbot** is designed to process both **visual and textu
 - **Computer Vision**: OpenCV, TensorFlow, PyTorch  
 - **Natural Language Processing**: BERT, GPT, RASA  
 - **Backend**: Python (Flask/FastAPI)  
-- **Frontend**: React.js, HTML, CSS (if applicable)  
-- **Database**: MongoDB, Firebase, PostgreSQL  
+
 
 ## 📌 Future Enhancements  
 🔹 Improve chatbot accuracy with **better NLP models**.  
 🔹 Enable **multi-language support** for diverse users.  
 🔹 Add **voice-based interaction** for a more interactive experience.  
 🔹 Enhance **real-time object detection** using advanced models.  
+🔹 Android Application.  
+
 
 
 
