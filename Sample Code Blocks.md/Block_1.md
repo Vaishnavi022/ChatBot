@@ -11,7 +11,7 @@ import google.generativeai as genai
 from PIL import Image
 
 
-**Explanation:**
+## Explanation:
 # dotenv: This library is used to load environment variables from a .env file, such as your API key, which ensures sensitive data is not exposed in your code.
 # streamlit: A framework used to create the web interface for the chatbot. It makes it easy to build interactive applications with Python.
 # os: A module that helps you interact with the operating system. In this case, it's used to fetch environment variables (like the API key for Gemini).
@@ -30,12 +30,3 @@ from PIL import Image
 # streamlit: The framework used for building the UI.
 # google-generativeai: Required for interacting with the Gemini API.
 # Pillow: Python Imaging Library (PIL) for image processing.
-
- 
-
-### Highlights:
-- **Dependencies**: The specific libraries (dotenv, streamlit, google-generativeai, and Pillow) are listed with installation instructions.
-- **Explanation**: The markdown explains the purpose of each library and how it functions in the code.
-- **How It Works**: A brief overview of the key functionalities, like loading environment variables and configuring the API client.
-
-Let me know if you need any more details or further customization! 😊
