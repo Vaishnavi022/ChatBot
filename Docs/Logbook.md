@@ -3,6 +3,7 @@
 ### Project Title: Conversational Image Recognition Chatbot  
 ### Semester: VI (2024-25)
 
+
 ---
 
 ## 1. Introduction
@@ -18,6 +19,7 @@
 
 - **Applications:**  
   - Customer support (analyzing product images).    
+
 
 ---
 
@@ -38,6 +40,7 @@
   - Das et al., "Visual Dialog" (CVPR 2017).
 
 *(Citations will be detailed in the final document.)*
+
 
 ---
 
@@ -63,6 +66,7 @@
   - Dataset: VQA v2.0 dataset.
   - Visualization done using PowerBI.
 
+
 ---
 
 ## 4. Implementation Details
@@ -84,6 +88,7 @@
   - Unit tests for image understanding.
   - Integration tests for conversation flows.
 
+
 ---
 
 ## 5. Results
@@ -104,6 +109,7 @@
 
 - **Report Writing:**
   - In progress.
+
 
 ---
 
