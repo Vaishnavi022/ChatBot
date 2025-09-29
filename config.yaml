@@ -1,0 +1,18 @@
+cookie:
+  expiry_days: 30
+  key: cookie_key
+  name: cookie_name
+credentials:
+  usernames:
+    Disha:
+      email: disha@gmail.com
+      name: Disha
+      password: '111'
+    jaybalaji192:
+      email: jaybalaji192@gmail.com
+      name: Tejas Chaudhari
+      password: jaybalaji192
+    user1:
+      email: user1@example.com
+      name: User One
+      password: password123
